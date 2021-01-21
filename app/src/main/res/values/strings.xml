@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AD340_1</string>
+    <string name="invalid_zipcode">Zipcode nya salah oy!</string>
 </resources>
